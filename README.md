@@ -73,7 +73,7 @@ The table below summarizes the **out-of-sample (test set)** performance of all m
 
 ## 👩‍💻 Authors
 
-- Genetic Algorithm: [Ezgi Cinkılıç](#)
+- Genetic Algorithm: [Ezgi Cinkılıç](https://github.com/Ezgi-Cinkilic)
 - Markowitz & Data Pipeline: [Zeynep Çindemir](https://github.com/zeynepcindemir)
 
 ---
